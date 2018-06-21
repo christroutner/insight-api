@@ -8,9 +8,9 @@ var fs = require('fs');
 var async = require('async');
 var RPC = require('bitcoind-rpc');
 var http = require('http');
-var bitcore = require('bitcore-lib');
+var bitcore = require('bitcore-lib-cash');
 var exec = require('child_process').exec;
-var bitcore = require('bitcore-lib');
+var bitcore = require('bitcore-lib-cash');
 var Block = bitcore.Block;
 
 var blocksGenerated = 0;
