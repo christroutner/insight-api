@@ -61,8 +61,8 @@
   "bitcoreNode": "lib",
   "dependencies": {
     "async": "*",
-    "bitcore-lib": "^0.13.9",
-    "bitcore-lib-cash": "osagga/bitcore-lib-cash",
+    "bitcore-lib": "0.14.0",
+    "bitcore-lib-cash": "christroutner/bitcore-lib-cash",
     "bitcore-message": "^1.0.1",
     "body-parser": "^1.13.3",
     "compression": "^1.6.1",
